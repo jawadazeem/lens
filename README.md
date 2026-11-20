@@ -1,2 +1,4 @@
 # lens
-Lens: Local Engine for Nuanced Screening
+**Lens**
+
+**L**ocal **E**ngine for **N**uanced **S**creening
